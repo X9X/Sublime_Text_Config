@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"CoolFormat"
 	],
 	"installed_packages":
 	[
@@ -19,11 +20,11 @@
 		"Colorsublime",
 		"ConvertToUTF8",
 		"CSScomb",
-		"CTags",
 		"DocBlockr",
 		"Emmet",
 		"Git",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"HTMLBeautify",
 		"IMESupport",
@@ -37,11 +38,9 @@
 		"Monokai Extended",
 		"Monokai Gray",
 		"Monokai JSON+",
-		"One Dark Color Scheme",
 		"One Dark Material - Theme",
-		"OpenInBrowser",
 		"Package Control",
-		"Predawn Monokai",
+		"Railscasts Extended",
 		"Ruby Debugger",
 		"Ruby on Rails snippets",
 		"SideBarEnhancements",
@@ -50,6 +49,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-ruby",
 		"SublimeREPL",
+		"Tag",
 		"Theme - amCoder",
 		"Theme - Cyanide",
 		"Theme - Flatland",
