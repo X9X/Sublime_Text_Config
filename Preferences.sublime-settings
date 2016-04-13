@@ -1,6 +1,6 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
 	"default_line_ending": "windows",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Monaco",
@@ -10,7 +10,6 @@
 	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
-		"CoolFormat",
 		"Markdown",
 		"Vintage"
 	],
@@ -19,5 +18,6 @@
 	"tabs_medium": true,
 	"theme": "Cyanide.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }

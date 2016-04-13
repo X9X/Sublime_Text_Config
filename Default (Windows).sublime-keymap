@@ -1,8 +1,8 @@
 [
 		{ "keys": ["f4"], "command": "open_in_browser" },
 		{ "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"} },
-		{ "keys": ["ctrl+shift+c"], "command": "color_pick" },
 		{ "keys": ["alt+d"], "command": "goto_definition" },
-		{ "keys": ["ctrl+tab"], "command": "next_view" },
-		{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+        { "keys": ["ctrl+tab"], "command": "next_view" },
+        { "keys": ["ctrl+shift+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+        { "keys": ["ctrl+alt+shift+l"], "command": "sublimelinter_lint" },
 ]
